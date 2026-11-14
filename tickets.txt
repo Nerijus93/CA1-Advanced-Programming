@@ -2,3 +2,6 @@ student=Alice
 T104; network; Wi-Fi disconnects repeatedly
 bad-line
 T105; software; IDE will not start
+T106; account; Unable to reset password
+T107; software; Spreadsheet application crashes on startup
+T108; others; Need help setting up a new laptop
